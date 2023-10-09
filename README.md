@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🏫 Northeastern University
+  - 2023-2027
+  - Cybersecurity B.S.
+  - Political Science Minor
 
 <!--
 **ncwht/ncwht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
