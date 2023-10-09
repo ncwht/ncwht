@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Nicholas White
 - 🏫 Northeastern University
   - 2023-2027
   - Cybersecurity B.S.
